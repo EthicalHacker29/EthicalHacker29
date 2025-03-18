@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @EthicalHacker29
-- 👀 I’m interested in Python, Java, C++, IT Security
-- 🌱 I’m currently learning ""
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔹 About Me
+Passionate about Cybersecurity, Raspberry Pi, and Open Source. Always learning, always building.
 
-<!---
-EthicalHacker29/EthicalHacker29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Skills
+Programming: Python, Bash, C (beginner)
+Cybersecurity: Networking, Pentesting, Linux Security
+Hardware: Raspberry Pi, Automation
+🚀 Current Focus
+Developing security tools, contributing to open source, and preparing for MIT.
+
+📌 Work in progress...
